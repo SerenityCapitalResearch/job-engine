@@ -1,0 +1,55 @@
+# Latest jobs (updated 2026-11-26 02:53 UTC)
+
+
+## 🇮🇳 India · Equity Research (0)
+
+
+## 🇮🇳 India · Strategy / Program / Analytics (1)
+
+- [Manager, GTM Operations](https://www.mongodb.com/careers/job/?gh_jid=8411524) - Mongodb - Gurugram - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+
+## 🇨🇦 Canada (0)
+
+
+## 🌍 Remote / Global (19)
+
+- [Global Events Strategy & Operations Lead](https://jobs.ashbyhq.com/openai/811d3085-41fb-4e6d-8003-617fbde96818) - Openai - San Francisco `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Associate, GTM Finance](https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317) - Ramp - New York, NY (HQ) `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [GTM Strategy & Operations, Enterprise](https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23) - Openai - New York City `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Transformation Leads Regional Manager](https://jobs.ashbyhq.com/openai/69da58b8-4d52-4e67-b1a7-d12326910c68) - Openai - New York City `REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
+- [Cloud GTM Program Lead](https://jobs.ashbyhq.com/openai/76709e27-2fe8-4930-ac87-76a8ef484a67) - Openai - San Francisco `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Growth Lead, New Product](https://jobs.ashbyhq.com/ramp/b15a2f20-a84c-4935-ada7-68e615319e33) - Ramp - New York, NY (HQ) `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Program Manager, Critical Harm Operations](https://jobs.ashbyhq.com/openai/eecf56df-1a74-4497-a8cd-ea3890d4155a) - Openai - San Francisco `REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
+- [GTM Solutions Management Director](https://weworkremotely.com/remote-jobs/ping-identity-gtm-solutions-management-director) - Ping Identity - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Certification Program Lead](https://careers.datadoghq.com/detail/8417469/?gh_jid=8417469) - Datadog - California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [Director, RevOps Strategy & Operations](https://weworkremotely.com/remote-jobs/keeper-security-director-revops-strategy-operations) - Keeper Security - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Strategic Finance, GTM](https://weworkremotely.com/remote-jobs/descript-strategic-finance-gtm) - Descript - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Manager, GTM Engineering (TAM & Outbound)](https://weworkremotely.com/remote-jobs/tebra-manager-gtm-engineering-tam-outbound) - Tebra - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Certification Program Lead](https://weworkremotely.com/remote-jobs/datadog-certification-program-lead) - Datadog - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
+- [Business Operations Manager](https://weworkremotely.com/remote-jobs/davies-business-operations-manager) - Davies - USA Only `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Lifecycle Marketing Manager](https://jobicy.com/jobs/164306-lifecycle-marketing-manager-2) - AlertMedia - USA `REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-26)
+- [Senior Project Operations Manager - 1st Shift - Travel (Remote, TX, US, 99999)](https://himalayas.app/companies/gxo-logistics/jobs/senior-project-operations-manager-1st-shift-travel-remote-tx-us-99999?utm_source=api) - GXO Logistics - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [Senior Program Manager](https://himalayas.app/companies/solera/jobs/senior-program-manager?utm_source=api) - Solera - Mexico `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [Project Manager](https://himalayas.app/companies/cambridge-spark/jobs/project-manager?utm_source=api) - Cambridge Spark - United Kingdom `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [GTM Engineer](https://himalayas.app/companies/revpartners/jobs/gtm-engineer?utm_source=api) - RevPartners - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+
+## 🌐 Onsite elsewhere in the world (18)
+
+- [Marketing Program Manager](https://boards.greenhouse.io/robinhood/jobs/8400293?t=gh_src=&gh_jid=8400293) - Robinhood - New York, NY - Resume 2 · Project / Program Management (2026-11-26)
+- [Program Manager, OMX SOTO](https://boards.greenhouse.io/chime/jobs/8958817002?gh_jid=8958817002) - Chime - New York, NY, USA - Resume 2 · Project / Program Management (2026-11-26)
+- [Program Manager, OMX SOTO](https://boards.greenhouse.io/chime/jobs/8958818002?gh_jid=8958818002) - Chime - Chicago, IL, USA - Resume 2 · Project / Program Management (2026-11-26)
+- [Senior Growth & Business Operations Lead](https://careers.airbnb.com/positions/8394471?gh_jid=8394471) - Airbnb - San Francisco, United States - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Forward Deployed Program Lead](https://databricks.com/company/careers/open-positions/job?gh_jid=8913000002) - Databricks - New York City, New York; San Francisco, California - Resume 2 · Project / Program Management (2026-11-26)
+- [Senior Lifecycle Marketing Manager, Customer](https://www.brex.com/careers/8959110002?gh_jid=8959110002) - Brex - San Francisco, California, United States - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-26)
+- [Senior Lifecycle Marketing Manager, Customer](https://www.brex.com/careers/8959174002?gh_jid=8959174002) - Brex - New York, New York, United States - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-26)
+- [Senior Lifecycle Marketing Manager, Customer](https://www.brex.com/careers/8959354002?gh_jid=8959354002) - Brex - Seattle, Washington, United States - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-26)
+- [Studio & Project Manager](https://jobs.lever.co/spotify/6ee8557a-5161-48e6-bba6-c3f8ffe30fda) - Spotify - Stockholm - Resume 2 · Project / Program Management (2026-11-26)
+- [Chief of Staff, ETI](https://boards.greenhouse.io/cloudflare/jobs/8412125?gh_jid=8412125) - Cloudflare - Hybrid - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Program Manager, People Innovation Labs](https://jobs.ashbyhq.com/openai/49095b0c-ffea-41be-9cf9-93cb73e40490) - Openai - San Francisco - Resume 2 · Project / Program Management (2026-11-26)
+- [Program Manager, Customer Strategy & Operations](https://www.mongodb.com/careers/job/?gh_jid=8386492) - Mongodb - Mexico City - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Manager, Sales Strategy & Operations - North America](https://jobs.lever.co/spotify/4e375351-b130-4f51-b9f1-e0fffee023d2) - Spotify - New York, NY - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Senior Analyst, Sales Strategy & Operations - North America](https://jobs.lever.co/spotify/3dee8969-3910-4624-a401-45222202522c) - Spotify - New York, NY - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Certification Program Lead](https://careers.datadoghq.com/detail/8417250/?gh_jid=8417250) - Datadog - New York, New York, USA - Resume 2 · Project / Program Management (2026-11-26)
+- [Senior Program Manager – Financial Engineering (FinE)](https://jobs.lever.co/spotify/dbf22fdf-5dd4-4a7e-9a2a-2438ca93790e) - Spotify - London - Resume 2 · Project / Program Management (2026-11-26)
+- [Senior Program Manager – Financial Engineering (FinE)](https://jobs.lever.co/spotify/82c278ac-c73b-460a-b955-f11097447bff) - Spotify - New York, NY - Resume 2 · Project / Program Management (2026-11-26)
+- [GTM Recruiter, Contract](https://www.mongodb.com/careers/job/?gh_jid=8412006) - Mongodb - United States `CONTRACT` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
