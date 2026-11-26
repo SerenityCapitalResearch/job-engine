@@ -1,4 +1,4 @@
-# Latest jobs (updated 2026-11-26 02:53 UTC)
+# Latest jobs (updated 2026-11-26 11:40 UTC)
 
 
 ## 🇮🇳 India · Equity Research (0)
@@ -8,11 +8,19 @@
 
 - [Manager, GTM Operations](https://www.mongodb.com/careers/job/?gh_jid=8411524) - Mongodb - Gurugram - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 
-## 🇨🇦 Canada (0)
+## 🇨🇦 Canada (1)
 
+- [Senior Webflow Project Manager (Contract)](https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract) - N4 Studio - Canada Only `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 
-## 🌍 Remote / Global (19)
+## 🌍 Remote / Global (26)
 
+- [GTM AI Engineer](https://weworkremotely.com/remote-jobs/launchdarkly-gtm-ai-engineer) - LaunchDarkly - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Partner Marketing Program Manager](https://weworkremotely.com/remote-jobs/sumo-logic-partner-marketing-program-manager) - Sumo Logic - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
+- [Project Manager, Financial Benefits](https://weworkremotely.com/remote-jobs/justworks-project-manager-financial-benefits) - Justworks - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
+- [Private Sector Partnerships Manager](https://jobicy.com/jobs/164321-private-sector-partnerships-manager) - Pacific Legal Foundation - USA `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Customer Success Manager, Go-To-Market](https://himalayas.app/companies/daybreak-health/jobs/customer-success-manager-go-to-market?utm_source=api) - Daybreak Health - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Director, GTM Enablement](https://himalayas.app/companies/csdisco/jobs/director-gtm-enablement?utm_source=api) - DISCO - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Growth Manager (Contract)](https://weworkremotely.com/remote-jobs/reddit-growth-manager-contract) - Reddit - Anywhere in the World `CONTRACT REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Global Events Strategy & Operations Lead](https://jobs.ashbyhq.com/openai/811d3085-41fb-4e6d-8003-617fbde96818) - Openai - San Francisco `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Associate, GTM Finance](https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317) - Ramp - New York, NY (HQ) `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [GTM Strategy & Operations, Enterprise](https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23) - Openai - New York City `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
