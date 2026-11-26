@@ -1,0 +1,221 @@
+# ======================================================================
+#  JOB ENGINE SETTINGS  -  built around Aman's five resumes
+# ======================================================================
+# A job is kept if its TITLE contains any keyword below (case-insensitive).
+# Every alert tells you which resume to send ("📄 Use: ...").
+# Order matters: if a title fits two resumes, the first one listed wins.
+
+resumes:
+  - id: gtm
+    label: "Resume 1 · Go-to-Market / Strategy"
+    titles:
+      - go-to-market
+      - go to market
+      - gtm
+      - growth strategy
+      - pricing strategy
+      - pricing manager
+      - pricing lead
+      - head of pricing
+      - revenue strategy
+      - commercial strategy
+      - business strategy
+      - corporate strategy
+      - strategy & planning
+      - strategy and planning
+      - strategy & operations
+      - strategy and operations
+      - strategy manager
+      - strategy lead
+      - business operations
+      - bizops
+      - chief of staff
+      - partnerships manager
+      - partnership strategy
+      - channel strategy
+      - channel partnerships
+      - loyalty strategy
+      - head of growth
+      - growth manager
+      - growth lead
+      - monetization
+
+  - id: pm
+    label: "Resume 2 · Project / Program Management"
+    titles:
+      - program manager
+      - programme manager
+      - project manager
+      - program lead
+      - project lead
+      - senior project
+      - project coordinator
+      - pmo
+      - delivery manager
+      - transformation manager
+      - transformation lead
+      - business continuity
+      - energy program
+      - utility program
+
+  - id: lifecycle
+    label: "Resume 4 · Customer Lifecycle / Retention Analytics"
+    titles:
+      - customer lifecycle
+      - lifecycle manager
+      - lifecycle marketing
+      - retention
+      - churn
+      - customer insights
+      - consumer insights
+      - customer analytics
+      - loyalty analytics
+      - loyalty manager
+      - loyalty program
+      - crm manager
+      - crm analytics
+      - marketing analytics
+      - subscription analytics
+      - customer strategy
+      - customer engagement
+
+  - id: decision
+    label: "Resume 5 · Business Decision Support / Process / Procurement"
+    titles:
+      - senior business analyst
+      - business analyst
+      - business systems analyst
+      - process improvement
+      - process excellence
+      - process design
+      - operational excellence
+      - continuous improvement
+      - procurement analyst
+      - procurement operations
+      - procurement excellence
+      - supply chain analyst
+      - decision support
+      - contract payment
+      - sap analyst
+      - requirements analyst
+
+  - id: er
+    label: "Resume 3 · Equity Research (India)"
+    india_only: true         # used only in the India equity-research section below
+    titles: &er_titles
+      - equity research
+      - research analyst
+      - equity analyst
+      - sector analyst
+      - research associate
+      - investment research
+      - fundamental research
+      - credit research
+      - buy side
+      - sell side
+      - research sales
+      - research editor
+      - governance analyst
+      - esg analyst
+      - esg research
+      - stewardship
+      - proxy advis
+      - financial modeling
+      - valuation analyst
+
+# Titles containing these are always dropped (you are a 12+ year professional, not entry level;
+# and project-manager searches get flooded with software and construction roles).
+exclude_titles:
+  - intern
+  - internship
+  - co-op
+  - coop
+  - unpaid
+  - volunteer
+  - apprentice
+  - stipend
+  - junior
+  - entry level
+  - entry-level
+  - trainee
+  - graduate
+  - student
+  - software engineer
+  - software developer
+  - devops
+  - construction project
+  - civil project
+  - site superintendent
+  - scrum master
+  - it project
+  - it program
+
+# ----------------------------------------------------------------------
+# SECTIONS. Checked top to bottom; a job lands in the first section it matches.
+#   where:  india | canada | remote | any   (matched against the job's location text)
+#   alert:  false = still logged in jobs.csv / latest.md, but no phone ping
+# ----------------------------------------------------------------------
+sections:
+  - id: india_er
+    label: "🇮🇳 India · Equity Research"
+    where: india
+    resume: er
+    titles: *er_titles
+
+  - id: india
+    label: "🇮🇳 India · Strategy / Program / Analytics"
+    where: india
+    titles: all_resumes
+
+  - id: canada
+    label: "🇨🇦 Canada"
+    where: canada
+    titles: all_resumes
+
+  - id: remote
+    label: "🌍 Remote / Global"
+    where: remote
+    titles: all_resumes
+
+  - id: world
+    label: "🌐 Onsite elsewhere in the world"
+    where: any
+    titles: all_resumes
+    alert: false        # set to true if you are open to relocating
+
+# ----------------------------------------------------------------------
+# BEHAVIOUR
+# ----------------------------------------------------------------------
+max_age_hours: 96           # ignore jobs older than this (when the site tells us the date)
+skip_region_limited: false  # true = hide remote jobs restricted to e.g. "US only" instead of tagging them
+max_alerts_per_run: 80      # phone pings per 30-min run (the rest are still logged)
+first_run_max_alerts: 60    # the first run finds a big backlog; only the freshest 60 are pushed
+workers: 16
+
+# ----------------------------------------------------------------------
+# BOARDS with free feeds. Each is polled at most every `every_minutes`.
+# ----------------------------------------------------------------------
+boards:
+  remoteok:       {enabled: true,  every_minutes: 30}
+  himalayas:      {enabled: true,  every_minutes: 30, pages: 5}
+  weworkremotely:
+    enabled: true
+    every_minutes: 30
+    feeds:
+      - https://weworkremotely.com/remote-jobs.rss
+  remotive:       {enabled: true,  every_minutes: 360}   # they ask for at most ~4 calls a day
+  jobicy:         {enabled: true,  every_minutes: 60}
+  arbeitnow:      {enabled: false, every_minutes: 60}    # Europe-focused; turn on if you want Europe
+
+  # Search APIs - BEST coverage for India and Canada. Free keys, 5 minutes to get (see README).
+  # Each phrase x country is one API call, so keep this list modest.
+  adzuna:
+    enabled: true
+    every_minutes: 180
+    max_phrases: 8
+    countries: [in, ca]      # in=India ca=Canada. Add gb, us, sg, au if you want more (more calls)
+  jooble:
+    enabled: true
+    every_minutes: 180
+    max_phrases: 8
+    locations: ["India", "Canada", "Remote"]

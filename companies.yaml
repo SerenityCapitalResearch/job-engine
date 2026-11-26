@@ -1,0 +1,88 @@
+# ======================================================================
+#  WHERE TO LOOK: employer hiring systems, recruiter agencies, career pages
+# ======================================================================
+# Jobs show up in these systems the minute a recruiter hits "publish",
+# usually hours or days before LinkedIn / Indeed. More companies here = more jobs found.
+#
+# The easy way to grow these lists:  python discover.py my_company_names.txt
+# It tries every company name against every system and saves matches to companies_found.yaml.
+#
+# A "slug" is the company's name in the URL, e.g.
+#   boards.greenhouse.io/stripe         -> greenhouse: stripe
+#   jobs.lever.co/palantir              -> lever: palantir
+#   jobs.ashbyhq.com/ramp               -> ashby: ramp
+#   apply.workable.com/<name>           -> workable: <name>
+#   jobs.smartrecruiters.com/<Name>     -> smartrecruiters: <Name>
+#
+# Starter slugs below are best-effort guesses. Run `python run.py --check` and
+# anything marked FAIL has a wrong slug - just delete or fix that line.
+
+greenhouse:
+  - stripe
+  - airbnb
+  - databricks
+  - coinbase
+  - cloudflare
+  - robinhood
+  - datadog
+  - gitlab
+  - reddit
+  - instacart
+  - twilio
+  - mongodb
+  - elastic
+  - squarespace
+  - affirm
+  - brex
+  - chime
+  - plaid
+  - toast
+  - wise
+
+lever:
+  - palantir
+  - spotify
+  - weride
+  - cred
+  - upgrad
+  - paytm
+
+ashby:
+  - openai
+  - ramp
+  - notion
+  - linear
+  - deel
+  - mercury
+  - ashby
+
+workable: []
+smartrecruiters: []
+
+# Big employers on Workday (banks, telcos, insurers; very common in Canada and India).
+# Find yours: open a company career page; if the URL looks like
+#   https://<tenant>.wd3.myworkdayjobs.com/<site>/...   copy the pieces below.
+# Examples below are unverified - `python run.py --check` will tell you if they work.
+workday:
+  - {name: "RBC",            host: "rbc.wd3.myworkdayjobs.com",           tenant: "rbc",           site: "RBCGLOBAL1"}
+  - {name: "CIBC",           host: "cibc.wd3.myworkdayjobs.com",          tenant: "cibc",          site: "search"}
+  - {name: "Manulife",       host: "manulife.wd3.myworkdayjobs.com",      tenant: "manulife",      site: "MFCJH_Jobs"}
+  - {name: "Sun Life",       host: "sunlife.wd3.myworkdayjobs.com",       tenant: "sunlife",       site: "Experienced-Jobs"}
+  - {name: "Morgan Stanley", host: "ms.wd5.myworkdayjobs.com",            tenant: "ms",            site: "External"}
+  - {name: "Goldman Sachs",  host: "goldmansachs.wd1.myworkdayjobs.com",  tenant: "goldmansachs",  site: "external_experienced"}
+
+# RECRUITING AGENCIES - these get you to the interview door, especially for contracts.
+# Most agency sites list jobs on a page with plain links. `pages` watches any such page and
+# alerts when a NEW link whose text matches your role keywords appears.
+# (If a page builds its list with JavaScript, this will find nothing - for those, register on
+#  the agency site and turn on its own email job alerts instead; see README.)
+# >>> Add the exact search-results URL for your role (filter by Canada / India / Remote first).
+pages: []
+#  - {name: "Robert Half Canada",  url: "https://www.roberthalf.com/ca/en/jobs/financial-analyst"}
+#  - {name: "Randstad India",      url: "https://www.randstad.in/jobs/equity-research/"}
+#  - {name: "Hays",                url: "https://www.hays.ca/job-search"}
+#  - {name: "Michael Page India",  url: "https://www.michaelpage.co.in/jobs/equity-research"}
+
+# Any site that offers an RSS / Atom feed (job boards, agencies, government):
+rss: []
+#  - {name: "Some Agency", url: "https://example.com/jobs.rss", location: "Canada"}

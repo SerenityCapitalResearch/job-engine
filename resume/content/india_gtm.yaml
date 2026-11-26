@@ -1,0 +1,69 @@
+# India · Go-to-Market / Business Strategy resume. Facts follow profile/fact_sheet.md.
+name: "AMAN SUKHIJA"
+headline: "Go-To-Market Strategy | Business Strategy | Growth, Pricing & Customer Lifecycle"
+status: "Canada | Transitioning to India | Available immediately"
+contact: "sukhija_aman@hotmail.com | (236) 889-5336 | linkedin.com/in/amansukhija"
+sections:
+  - heading: PROFILE
+    paragraphs:
+      - "Go-to-market and business strategy leader with 12+ years of experience across India and Canada in digital platforms, payments, telecom, retail and loyalty, utilities and consulting. MBA in Finance. Has driven pricing, customer acquisition, retention, partnerships and channel launches at high-growth businesses including OYO Rooms, Bharti Airtel, SBI Card and 7-Eleven Canada, and advises enterprises independently through Sukhija Analytics."
+      - "Combines commercial instinct with hands-on analytics: builds the business case, models the economics, aligns founders and senior stakeholders, and executes with cross-functional teams. Proficient in Excel, SQL, Python, Alteryx and Power BI."
+  - heading: CORE EXPERTISE
+    space_after_last: true
+    paragraphs:
+      - "Go-To-Market Strategy | Business Strategy & Planning | Pricing & Revenue Optimization | Customer Acquisition, Retention & Loyalty | Channel & Partnership Strategy | Business Cases & Financial Modelling | Growth Analytics & KPI Frameworks | Cross-Functional Execution | Founder & CXO Reporting | Team Leadership"
+      - "Tools: Advanced Excel & VBA | SQL | Python | Alteryx | Power BI | SAP | Claude API"
+  - heading: PROFESSIONAL EXPERIENCE
+    entries:
+      - title: "Founder & Principal | Sukhija Analytics, Vancouver, Canada"
+        date: "Feb 2023 – Present"
+        subtitle: "Strategy and analytics advisory practice | Selected enterprise engagements: Roche | BC Hydro"
+      - title: "BC Hydro | Project Manager – Insights & Processes (Consulting Engagement)"
+        date: "Feb 2023 – Feb 2025"
+        bullets:
+          - "Advised senior management on a solar adoption study assessing provincial uptake potential and the financial impact of alternative funding strategies for a provincial solar program."
+          - "Isolated the cost drivers behind rising heat-pump installation costs across cities (product mix, labour rates, incentives, substitutes), informing program policy."
+          - "Designed an automated eligibility-validation tool for the Home Renovation Rebate program, broadening coverage, reducing rejections and manual errors, and speeding application turnaround."
+      - title: "Roche | Business Transformation & Procurement Analytics (Consulting Engagement)"
+        date: "Nov 2024 – Nov 2025"
+        bullets:
+          - "Directed business-continuity strategy through a global SAP S/4HANA transition, protecting operations across global procurement workstreams during high-impact system downtimes."
+          - "Modelled the working-capital impact of global supplier-payment-terms harmonization and built KPI dashboards that cut vendor-management overhead."
+      - title: "Applied Analytics & AI Solution Development"
+        date: "Nov 2025 – Present"
+        bullets:
+          - "Built a Python and Claude API-based analytics platform that extracts multi-year financial statements into a standardized schema and produces financial models and earnings-quality assessments, with validation checks and human review."
+      - title: "Program Manager – 7Rewards Member Program | 7-Eleven Canada"
+        date: "Feb 2020 – Feb 2023"
+        bullets:
+          - "Led SKU-level margin and cost-benefit analysis in Alteryx over three years for the 7Rewards loyalty program, supporting pricing, promotion and annual marketing-budget decisions."
+          - "Partnered with global CPG brands (Coca-Cola, Pepsi) to measure sales uplift and margin impact, securing increased vendor funding for loyalty programs through post-campaign ROI analysis."
+          - "Launched Uber Eats and DoorDash on the national online delivery platform, overseeing vendor contract negotiations, system integration and KPI definition."
+      - title: "Senior Manager – Customer Insights, Loyalty & Retention Strategy (CEO Office) | SBI Card, India"
+        date: "Nov 2018 – Oct 2019"
+        bullets:
+          - "Led customer lifecycle, retention and growth initiatives for the CEO Office across a multi-million-cardholder portfolio, managing 3–4 analysts and building business cases for senior leadership."
+          - "Spearheaded the integration of a multi-million cardholder portfolio, unifying marketing, customer-experience and retention strategies under a single brand offering."
+          - "Led a retention roll-out that retained approximately 450 high-value cardholders and added INR 50–60 lakh in monthly spend; redesigned cashback and reward-point propositions for a further INR 30–33 lakh in monthly spend."
+          - "Designed card product features and secured internal and regulatory approvals within the business case and budget."
+      - title: "Regional Head – Retention Strategy & Customer Insights | Bharti Airtel, India"
+        date: "Nov 2016 – Nov 2018"
+        bullets:
+          - "Led regional DTH acquisition, revenue and churn strategy, including a segmented cross-sell campaign of geography-specific long-duration packs that sold approximately 40,000 packs in three months."
+          - "Reduced third-party care-centre retention staffing requirements by 75 executive roles by assessing customer profiles, retention scenarios and reporting structures."
+          - "Reported performance, operating plans and recommendations to the CEO and senior leadership; managed analysts and business managers across North India."
+      - title: "Project Manager – Pricing, Demand & Customer Insights | OYO Rooms, India"
+        date: "Sep 2015 – Nov 2016"
+        bullets:
+          - "Helped design a dynamic consumer- and supplier-side pricing framework across 80,000+ rooms during hyper-growth, sustaining a margin of approximately 5%; trained demand managers to move from manual to data-driven pricing."
+          - "Delivered demand forecasting for peak holiday and travel events, supporting supply-side planning and an increase in room supply of around 4%."
+          - "Led data scientists in building a fraud-risk framework and reporting platform that the risk team adopted to track channel fraud daily."
+      - title: "Associate Consultant – Business Modelling & Data Insights Services | KPMG, India"
+        date: "Mar 2014 – Sep 2015"
+        bullets:
+          - "Designed an inventory-optimization model for a global packaging client, identifying potential savings of USD 2.5–3M, and optimized a UK retailer's Purchase-to-Pay process, identifying a potential working-capital reduction of USD 2M."
+          - "Delivered financial-risk, operational-efficiency and transformation engagements for US and UK retail and utility clients."
+  - heading: EDUCATION
+    education:
+      - {degree: "Master of Business Administration (MBA), Finance", school: "Institute of Management Technology, Ghaziabad (NCR), India"}
+      - {degree: "Bachelor of Technology, Electronics & Communication", school: "YMCA University of Science and Technology, Delhi (NCR), India"}
