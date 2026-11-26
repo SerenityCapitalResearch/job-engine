@@ -1,4 +1,4 @@
-# Latest jobs (updated 2026-11-26 11:40 UTC)
+# Latest jobs (updated 2026-11-26 20:41 UTC)
 
 
 ## 🇮🇳 India · Equity Research (0)
@@ -8,12 +8,23 @@
 
 - [Manager, GTM Operations](https://www.mongodb.com/careers/job/?gh_jid=8411524) - Mongodb - Gurugram - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 
-## 🇨🇦 Canada (1)
+## 🇨🇦 Canada (3)
 
+- [End User Support Program Manager (6 Month Contract)](https://jobicy.com/jobs/164448-end-user-support-program-manager-6-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
+- [Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)](https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Senior Webflow Project Manager (Contract)](https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract) - N4 Studio - Canada Only `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 
-## 🌍 Remote / Global (26)
+## 🌍 Remote / Global (35)
 
+- [Lifecycle Marketing Manager](https://remoteOK.com/remote-jobs/remote-lifecycle-marketing-manager-lifeforce-1138144) - Lifeforce - US Only `REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-26)
+- [Project Manager - R01573664](https://weworkremotely.com/remote-jobs/brillio-project-manager-r01573664) - Brillio - USA Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [Certification Program Lead](https://jobicy.com/jobs/164394-certification-program-lead) - Datadog - USA `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [Business Operations Manager](https://jobicy.com/jobs/164401-business-operations-manager-3) - Motive - USA `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [GTM AI Lead](https://jobicy.com/jobs/164421-gtm-ai-lead) - Valdera - USA `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [Program Manager - ServiceNow](https://himalayas.app/companies/cdw/jobs/program-manager-servicenow?utm_source=api) - CDW - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [Director, AI Solutions Strategy & Planning](https://weworkremotely.com/remote-jobs/instacart-director-ai-solutions-strategy-planning) - Instacart - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
+- [GCA Program Manager](https://himalayas.app/companies/securitas/jobs/gca-program-manager?utm_source=api) - Securitas - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
+- [Head of Growth, Tilt Mexico](https://weworkremotely.com/remote-jobs/tilt-head-of-growth-tilt-mexico) - Tilt - North America Only `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [GTM AI Engineer](https://weworkremotely.com/remote-jobs/launchdarkly-gtm-ai-engineer) - LaunchDarkly - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Partner Marketing Program Manager](https://weworkremotely.com/remote-jobs/sumo-logic-partner-marketing-program-manager) - Sumo Logic - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 - [Project Manager, Financial Benefits](https://weworkremotely.com/remote-jobs/justworks-project-manager-financial-benefits) - Justworks - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
