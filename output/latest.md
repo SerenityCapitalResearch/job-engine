@@ -1,4 +1,4 @@
-# Latest jobs (updated 2026-11-27 03:22 UTC)
+# Latest jobs (updated 2026-11-27 12:52 UTC)
 
 
 ## 🇮🇳 India · Equity Research (0)
@@ -14,8 +14,14 @@
 - [Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)](https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Senior Webflow Project Manager (Contract)](https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract) - N4 Studio - Canada Only `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 
-## 🌍 Remote / Global (42)
+## 🌍 Remote / Global (48)
 
+- [Senior Staff Technical Program Manager, Search Signals](https://weworkremotely.com/remote-jobs/pinterest-senior-staff-technical-program-manager-search-signals) - Pinterest - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
+- [Senior Manager, Lifecycle Marketing](https://himalayas.app/companies/dataiku/jobs/senior-manager-lifecycle-marketing?utm_source=api) - Dataiku - United States `REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-27)
+- [Client Delivery Manager](https://himalayas.app/companies/eyecarepro/jobs/client-delivery-manager?utm_source=api) - EyeCarePro - South Africa `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
+- [Delivery Excellence Project Manager Senior](https://himalayas.app/companies/aurora-healthcare/jobs/delivery-excellence-project-manager-senior?utm_source=api) - Aurora Healthcare - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Bioinformatics Business Analyst](https://himalayas.app/companies/chenega-corporation/jobs/bioinformatics-business-analyst?utm_source=api) - Chenega Corporation - United States `REMOTE REGION-LIMITED` - Resume 5 · Business Decision Support / Process / Procurement (2026-11-27)
+- [Agile Delivery Manager (contract outside of IR35)](https://himalayas.app/companies/twinstream/jobs/agile-delivery-manager-contract-outside-of-ir35?utm_source=api) - TwinStream - United Kingdom `CONTRACT REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
 - [Demand Generation Program Manager (EMEA)](https://weworkremotely.com/remote-jobs/coder-technologies-inc-demand-generation-program-manager-emea) - Coder Technologies Inc. - UK Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
 - [Senior Product Manager, Retention (5M to 50M users)](https://himalayas.app/companies/jerry/jobs/senior-product-manager-retention-5m-to-50m-users-4441154609?utm_source=api) - Jerry - United States `REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-27)
 - [Strategy & Operations Associate](https://himalayas.app/companies/bjak/jobs/strategy-operations-associate?utm_source=api) - Bjak - Indonesia `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
