@@ -1,21 +1,35 @@
-# Latest jobs (updated 2026-11-27 12:52 UTC)
+# Latest jobs (updated 2026-11-27 21:44 UTC)
 
 
 ## 🇮🇳 India · Equity Research (0)
 
 
-## 🇮🇳 India · Strategy / Program / Analytics (1)
+## 🇮🇳 India · Strategy / Program / Analytics (2)
 
+- [Project Manager](https://himalayas.app/companies/transaction-network-services/jobs/project-manager?utm_source=api) - Transaction Network Services - India `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
 - [Manager, GTM Operations](https://www.mongodb.com/careers/job/?gh_jid=8411524) - Mongodb - Gurugram - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 
-## 🇨🇦 Canada (3)
+## 🇨🇦 Canada (4)
 
+- [Gestionnaire adjoint de programme - Associate Program Manager](https://himalayas.app/companies/amerisourcebergen/jobs/gestionnaire-adjoint-de-programme-associate-program-manager-232020227?utm_source=api) - AmerisourceBergen - Canada `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
 - [End User Support Program Manager (6 Month Contract)](https://jobicy.com/jobs/164448-end-user-support-program-manager-6-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 - [Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)](https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Senior Webflow Project Manager (Contract)](https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract) - N4 Studio - Canada Only `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 
-## 🌍 Remote / Global (48)
+## 🌍 Remote / Global (60)
 
+- [Service Delivery Manager](https://remoteOK.com/remote-jobs/remote-service-delivery-manager-vultr-1138190) - Vultr - US Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Senior Service Delivery Manager](https://remoteOK.com/remote-jobs/remote-senior-service-delivery-manager-vultr-1138191) - Vultr - US Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Senior Product Partnerships Manager (Remote within USA or Canada)](https://weworkremotely.com/remote-jobs/duckduckgo-senior-product-partnerships-manager-remote-within-usa-or-canada) - DuckDuckGo - USA Only `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
+- [Senior Technical Program Manager, Physical Security](https://weworkremotely.com/remote-jobs/vultr-senior-technical-program-manager-physical-security) - Vultr - USA Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Strategy & Operations Associate](https://jobicy.com/jobs/164579-strategy-operations-associate) - BJAK - China `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
+- [Program Manager, Recruiting Events](https://jobs.ashbyhq.com/openai/1f1ea997-283b-4d49-b25b-e8dbe2491938) - Openai - San Francisco `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
+- [Sr. Analyst, FP&A - GTM](https://weworkremotely.com/remote-jobs/beyondtrust-sr-analyst-fp-a-gtm) - BeyondTrust - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
+- [Head of Growth](https://weworkremotely.com/remote-jobs/outmarket-ai-head-of-growth) - Outmarket AI - USA Only `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
+- [Program Manager, Strategic Accounts](https://himalayas.app/companies/autostore/jobs/program-manager-strategic-accounts?utm_source=api) - AutoStore - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Partner Marketing Program Manager](https://himalayas.app/companies/sumo-logic/jobs/partner-marketing-program-manager?utm_source=api) - Sumo Logic - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Project Manager, Clinical Supplies](https://himalayas.app/companies/lifelancer/jobs/project-manager-clinical-supplies-983662563?utm_source=api) - Lifelancer - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Client Specialist - Business Operations (Non-Profit & For Profit)](https://himalayas.app/companies/higherring/jobs/client-specialist-business-operations-non-profit-for-profit?utm_source=api) - HigherRing - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
 - [Senior Staff Technical Program Manager, Search Signals](https://weworkremotely.com/remote-jobs/pinterest-senior-staff-technical-program-manager-search-signals) - Pinterest - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
 - [Senior Manager, Lifecycle Marketing](https://himalayas.app/companies/dataiku/jobs/senior-manager-lifecycle-marketing?utm_source=api) - Dataiku - United States `REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-27)
 - [Client Delivery Manager](https://himalayas.app/companies/eyecarepro/jobs/client-delivery-manager?utm_source=api) - EyeCarePro - South Africa `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
@@ -65,8 +79,10 @@
 - [Project Manager](https://himalayas.app/companies/cambridge-spark/jobs/project-manager?utm_source=api) - Cambridge Spark - United Kingdom `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
 - [GTM Engineer](https://himalayas.app/companies/revpartners/jobs/gtm-engineer?utm_source=api) - RevPartners - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 
-## 🌐 Onsite elsewhere in the world (18)
+## 🌐 Onsite elsewhere in the world (20)
 
+- [Product Strategy & Operations, Crypto S&O](https://stripe.com/jobs/search?gh_jid=8421263) - Stripe - New York, NY - Resume 1 · Go-to-Market / Strategy (2026-11-27)
+- [Business Operations](https://stripe.com/jobs/search?gh_jid=8421413) - Stripe - San Francisco, CA  - Resume 1 · Go-to-Market / Strategy (2026-11-27)
 - [Marketing Program Manager](https://boards.greenhouse.io/robinhood/jobs/8400293?t=gh_src=&gh_jid=8400293) - Robinhood - New York, NY - Resume 2 · Project / Program Management (2026-11-26)
 - [Program Manager, OMX SOTO](https://boards.greenhouse.io/chime/jobs/8958817002?gh_jid=8958817002) - Chime - New York, NY, USA - Resume 2 · Project / Program Management (2026-11-26)
 - [Program Manager, OMX SOTO](https://boards.greenhouse.io/chime/jobs/8958818002?gh_jid=8958818002) - Chime - Chicago, IL, USA - Resume 2 · Project / Program Management (2026-11-26)
