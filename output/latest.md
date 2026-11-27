@@ -1,4 +1,4 @@
-# Latest jobs (updated 2026-11-26 20:41 UTC)
+# Latest jobs (updated 2026-11-27 03:22 UTC)
 
 
 ## 🇮🇳 India · Equity Research (0)
@@ -14,8 +14,15 @@
 - [Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)](https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Senior Webflow Project Manager (Contract)](https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract) - N4 Studio - Canada Only `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 
-## 🌍 Remote / Global (35)
+## 🌍 Remote / Global (42)
 
+- [Demand Generation Program Manager (EMEA)](https://weworkremotely.com/remote-jobs/coder-technologies-inc-demand-generation-program-manager-emea) - Coder Technologies Inc. - UK Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Senior Product Manager, Retention (5M to 50M users)](https://himalayas.app/companies/jerry/jobs/senior-product-manager-retention-5m-to-50m-users-4441154609?utm_source=api) - Jerry - United States `REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-27)
+- [Strategy & Operations Associate](https://himalayas.app/companies/bjak/jobs/strategy-operations-associate?utm_source=api) - Bjak - Indonesia `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
+- [Project Manager](https://himalayas.app/companies/rws-group/jobs/project-manager?utm_source=api) - RWS Group - Colombia `REMOTE` - Resume 2 · Project / Program Management (2026-11-27)
+- [Strategy & Operations Lead](https://himalayas.app/companies/bjak/jobs/strategy-operations-lead-533948578?utm_source=api) - Bjak - China `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
+- [Program Manager](https://himalayas.app/companies/mano-lani-llc/jobs/program-manager-5045217923?utm_source=api) - Mano Lani LLC - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
+- [Chief of Staff](https://himalayas.app/companies/bjak/jobs/chief-of-staff-2971807847?utm_source=api) - Bjak - Singapore `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
 - [Lifecycle Marketing Manager](https://remoteOK.com/remote-jobs/remote-lifecycle-marketing-manager-lifeforce-1138144) - Lifeforce - US Only `REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-26)
 - [Project Manager - R01573664](https://weworkremotely.com/remote-jobs/brillio-project-manager-r01573664) - Brillio - USA Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
 - [Certification Program Lead](https://jobicy.com/jobs/164394-certification-program-lead) - Datadog - USA `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-26)
