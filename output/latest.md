@@ -1,4 +1,4 @@
-# Latest jobs (updated 2026-11-27 21:44 UTC)
+# Latest jobs (updated 2026-11-28 03:38 UTC)
 
 
 ## 🇮🇳 India · Equity Research (0)
@@ -16,8 +16,15 @@
 - [Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)](https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Senior Webflow Project Manager (Contract)](https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract) - N4 Studio - Canada Only `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 
-## 🌍 Remote / Global (60)
+## 🌍 Remote / Global (67)
 
+- [Growth Manager, Customer Expansion](https://himalayas.app/companies/engine/jobs/growth-manager-customer-expansion?utm_source=api) - Engine - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Head of Business Operations & Analytics](https://himalayas.app/companies/allocator-one/jobs/head-of-business-operations-analytics?utm_source=api) - Allocator One - Austria `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Senior CRM Manager - Conversion & Lifecycle](https://himalayas.app/companies/m-kopa/jobs/senior-crm-manager-conversion-lifecycle-4757377618?utm_source=api) - M-KOPA - Ghana, Kenya, Nigeria, South Africa, Uganda `REMOTE` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-28)
+- [Pricing & Monetization Strategist / Manager](https://himalayas.app/companies/the-nielsen-company/jobs/pricing-monetization-strategist-manager?utm_source=api) - The Nielsen Company - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Senior Director, PMO, Strategic Projects (Remote, US)](https://himalayas.app/companies/ohmconnect/jobs/senior-director-pmo-strategic-projects-remote-us?utm_source=api) - OhmConnect - United States `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-28)
+- [Business Development & Chief of Staff](https://himalayas.app/companies/the-global-talent-co/jobs/business-development-chief-of-staff?utm_source=api) - The Global Talent Co. - South Africa `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Email Retention Designer](https://himalayas.app/companies/ejam/jobs/email-retention-designer?utm_source=api) - eJam - Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S. `CONTRACT REMOTE REGION-LIMITED` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-28)
 - [Service Delivery Manager](https://remoteOK.com/remote-jobs/remote-service-delivery-manager-vultr-1138190) - Vultr - US Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
 - [Senior Service Delivery Manager](https://remoteOK.com/remote-jobs/remote-senior-service-delivery-manager-vultr-1138191) - Vultr - US Only `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-27)
 - [Senior Product Partnerships Manager (Remote within USA or Canada)](https://weworkremotely.com/remote-jobs/duckduckgo-senior-product-partnerships-manager-remote-within-usa-or-canada) - DuckDuckGo - USA Only `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-27)
