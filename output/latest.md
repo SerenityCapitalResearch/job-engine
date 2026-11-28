@@ -1,4 +1,4 @@
-# Latest jobs (updated 2026-11-28 03:38 UTC)
+# Latest jobs (updated 2026-11-28 12:33 UTC)
 
 
 ## 🇮🇳 India · Equity Research (0)
@@ -16,8 +16,20 @@
 - [Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)](https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract) - D2L - Canada `CONTRACT REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-26)
 - [Senior Webflow Project Manager (Contract)](https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract) - N4 Studio - Canada Only `CONTRACT REMOTE` - Resume 2 · Project / Program Management (2026-11-26)
 
-## 🌍 Remote / Global (67)
+## 🌍 Remote / Global (79)
 
+- [Strategic Project Lead - AI Post-Training (London)](https://jobicy.com/jobs/157662-strategic-project-lead-ai-post-training-london) - Appen - UK `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-28)
+- [Strategic Project Lead - Multimodal AI (London)](https://jobicy.com/jobs/157673-strategic-project-lead-multimodal-ai-london) - Appen - UK `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-28)
+- [Strategic Project Lead - Speech & Audio AI (London)](https://jobicy.com/jobs/157678-strategic-project-lead-speech-audio-ai-london) - Appen - UK `REMOTE REGION-LIMITED` - Resume 2 · Project / Program Management (2026-11-28)
+- [Head of Growth, Web Strategy & Digital Experience](https://jobicy.com/jobs/164611-head-of-growth-web-strategy-digital-experience) - Wellhub - Brazil `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Senior Director of Growth, Web Strategy & Operations](https://jobicy.com/jobs/164613-senior-director-of-growth-web-strategy-operations) - Wellhub - Brazil `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Senior Technical Program Manager, Infrastructure](https://weworkremotely.com/remote-jobs/pinterest-senior-technical-program-manager-infrastructure) - Pinterest - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-28)
+- [Director, APAC Go-to-Market](https://weworkremotely.com/remote-jobs/tailscale-director-apac-go-to-market) - Tailscale - Anywhere in the World `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Staff Technical Program Manager (R14286)](https://weworkremotely.com/remote-jobs/oportun-staff-technical-program-manager-r14286) - Oportun - Anywhere in the World `REMOTE` - Resume 2 · Project / Program Management (2026-11-28)
+- [Senior Digital Project Manager](https://weworkremotely.com/remote-jobs/airvu-media-senior-digital-project-manager) - AirVu Media - Africa Only `REMOTE` - Resume 2 · Project / Program Management (2026-11-28)
+- [Customer Success & Client Retention Expert](https://himalayas.app/companies/pavago/jobs/customer-success-client-retention-expert-9678544493?utm_source=api) - Pavago - Pakistan `REMOTE` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-28)
+- [(Senior) Go to Market Manager AT & CH (w/m/d)](https://himalayas.app/companies/hero-software/jobs/senior-go-to-market-manager-at-ch-w-m-d?utm_source=api) - HERO Software - Germany `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
+- [Technical Business Analyst (AdTech Platform)](https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/technical-business-analyst-adtech-platform?utm_source=api) - Sigma Software - Poland `REMOTE REGION-LIMITED` - Resume 5 · Business Decision Support / Process / Procurement (2026-11-28)
 - [Growth Manager, Customer Expansion](https://himalayas.app/companies/engine/jobs/growth-manager-customer-expansion?utm_source=api) - Engine - United States `REMOTE REGION-LIMITED` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
 - [Head of Business Operations & Analytics](https://himalayas.app/companies/allocator-one/jobs/head-of-business-operations-analytics?utm_source=api) - Allocator One - Austria `REMOTE` - Resume 1 · Go-to-Market / Strategy (2026-11-28)
 - [Senior CRM Manager - Conversion & Lifecycle](https://himalayas.app/companies/m-kopa/jobs/senior-crm-manager-conversion-lifecycle-4757377618?utm_source=api) - M-KOPA - Ghana, Kenya, Nigeria, South Africa, Uganda `REMOTE` - Resume 4 · Customer Lifecycle / Retention Analytics (2026-11-28)
